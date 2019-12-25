@@ -1,0 +1,29 @@
+{
+  "name": "street-workout",
+  "main": "index.js",
+  "engines": {
+    "node": "10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "description": "Como proyecto, nos propusimos a crear una pagina web responsive en base a un deporte llamado calistenia, tambien conocido como street workout.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charliee95/Pagina-Web-Calistenia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charliee95/Pagina-Web-Calistenia/issues"
+  },
+  "homepage": "https://github.com/Charliee95/Pagina-Web-Calistenia#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.5"
+  },
+  "devDependencies": {}
+}
